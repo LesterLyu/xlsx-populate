@@ -6,7 +6,7 @@
 # xlsx-populate
 Excel XLSX parser/generator written in JavaScript with Node.js and browser support, jQuery/d3-style method chaining, encryption, and a focus on keeping existing workbook features and styles in tact.
 
-# [API Document](https://lesterlyu.github.io/xlsx-populate/xlsx-populate/1.19.1/)
+# [API Document](https://lesterlyu.github.io/xlsx-populate/xlsx-populate/1.19.1/index.html)
 
 ## Table of Contents
 - [Installation](#installation)
